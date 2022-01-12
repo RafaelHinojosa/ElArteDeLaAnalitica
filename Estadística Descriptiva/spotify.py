@@ -8,7 +8,7 @@ import pandas as pd
 from pandas.core.algorithms import unique 
 
 # 1. Cargar los datos
-songs = pd.read_csv("songs.csv")
+songs = pd.read_csv("../data/songs.csv")
 
 # 2. Número de variables y registros
 noRegistros = songs.shape[0]

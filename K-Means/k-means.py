@@ -1,3 +1,9 @@
+"""
+    Author: Rafael Hinojosa López
+    Matrícula: A01705777
+    Fecha: 14 - Enero - 2022
+"""
+
 from random import randint
 import math
 
